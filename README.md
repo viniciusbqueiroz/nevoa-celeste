@@ -62,4 +62,3 @@ Depois acesse `http://localhost:8000`.
 
 ---
 
-Feito com 💜 por [Vinicius Queiroz](https://github.com/viniciusbqueiroz), com apoio de IA (Claude) no desenvolvimento.
